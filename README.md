@@ -6,8 +6,7 @@
 
 ## Setup
 
-1. We're going to use the `activerecord` gem to create a mapping between our
-   database and model.
+1. We're going to use the `activerecord` gem to create a mapping between our database and model.
 2. While this is marked as a Readme, you should code-along with this document.
    If you have access to a Flatiron School sandbox (you'll see a blue button up
    top), launch it. If you're working on a local system, simply open a new
